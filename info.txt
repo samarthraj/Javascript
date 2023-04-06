@@ -4,3 +4,5 @@ List of the information to study
 1. SQL
 2. Leetcode - Python 
 
+Thank You! 
+
