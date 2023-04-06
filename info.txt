@@ -3,6 +3,14 @@ Store all the required info here:
 List of the information to study
 1. SQL
 2. Leetcode - Python 
+3. POSTGre 
+4. Django 
+
+
+for branch...
+5. HTML 
+6. Power BI
+7. CSS
 
 Thank You! 
 
