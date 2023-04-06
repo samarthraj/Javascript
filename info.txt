@@ -1,1 +1,6 @@
-Store all the required info here
+Store all the required info here:
+
+List of the information to study
+1. SQL
+2. Leetcode - Python 
+
